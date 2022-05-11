@@ -1,0 +1,17 @@
+
+# Gerenciamento de Branchs
+#### git branch :
+    Lista, cria ou exclui ramificações.
+    Exibesua branch atual.
+#### git branch <nomeBranch> :
+    Cria nova branch.
+#### git checkout <nomeBranch> :
+    Permite navegar entre as branchs.
+#### git checkout -b <nomeBranch> :
+    Alem de crear uma nova branch,realiza o checkout diretamente.
+#### git merge <nomeBranch> :
+    Une dois ou mais históricos de desenvolvimento.
+    É feito a partir da branch de destino.
+
+
+
