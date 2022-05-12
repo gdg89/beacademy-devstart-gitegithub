@@ -54,5 +54,10 @@ Rrepositório criado para expor os principais comandos para quem quiser usar a f
     Une dois ou mais históricos de desenvolvimento.
     É feito a partir da branch de destino.
 
+# Outras funcionalidades :
+#### git stash (salva alterações sem commit)
+#### git stash pop (restaura alterações salvas)
+#### git stash list (list stashes)
+#### git stash pop stash@{1} (aplica stash especifico)
 ## Autores
 - Giuliano García: [@gdg89](https://github.com/gdg89) 
